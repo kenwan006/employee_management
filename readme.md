@@ -9,7 +9,7 @@ Frontend
 	- `npm run serve `
 
 Backend
-1. Open the backend folder (springboot project) in the intellij IDEA
+1. Open the backend folder (`Springboot`  project) in the intellij IDEA
 2. Configure the database connection:
 	In `application.yaml`  - revise the username, password, database name to your own
 3. Build and run application
