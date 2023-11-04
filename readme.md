@@ -17,5 +17,5 @@ Backend
 Database
 1. create a database named student_system;
 2. import the student.sql and user.sql, two tables (student and user) will be created
-	`mysql -u username -p student_system < student.sql`
-	`mysql -u username -p student_system < user.sql`
+- `mysql -u username -p student_system < student.sql`
+- `mysql -u username -p student_system < user.sql`
